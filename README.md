@@ -23,4 +23,7 @@ Here are some ideas to get you started:
 <a style="margin: 50px" href="https://leetcode.com/ud17/" target="_blank"><img src="./code.png" alt="leetcode"/></a>
 <a style="margin: 50px" href="https://stackoverflow.com/users/11905562/udit-pandya" target="_blank"><img src="./stack-overflow.png" alt="stack-overflow"/></a>
 
+## GitHub Stats
+[![Udit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ud17)]
+
 ### Development in progress... :computer:
