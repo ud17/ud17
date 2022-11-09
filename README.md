@@ -1,4 +1,4 @@
-### Hello, World 👋
+# System.out.println("Hello, World!"); 👋
 ## Ik what are you here for! Go on, have a scroll :wink:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ud17&theme=dark&border_radius=5)](https://git.io/streak-stats)
@@ -17,5 +17,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Connect with me:
+<a href="https://www.linkedin.com/in/uditpandya/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/174/174857.png" alt="linkedin"/></a>
 
 ### Development in progress... :computer:
