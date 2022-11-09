@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Connect with me:
+### Looking to connect? Find me here...
 <a href="https://www.linkedin.com/in/uditpandya/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/174/174857.png" alt="linkedin"/></a>
+<a href="https://leetcode.com/ud17/" target="_blank"><img src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" alt="leetcode"/></a>
 
 ### Development in progress... :computer:
