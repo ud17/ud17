@@ -27,6 +27,6 @@ Here are some ideas to get you started:
 ![Udit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ud17&theme=dracula)
 
 ## Top Languages
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ud17)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ud17&langs_count=6&theme=dracula)
 
 ### Development in progress... :computer:
