@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Looking to connect? Find me here...
-<a style="margin: 15px" href="https://www.linkedin.com/in/uditpandya/" target="_blank"><img src="./linkedin.png" alt="linkedin"/></a>
-<a style="margin: 15px" href="https://leetcode.com/ud17/" target="_blank"><img src="./code.png" alt="leetcode"/></a>
-<a style="margin: 15px" href="https://stackoverflow.com/users/11905562/udit-pandya" target="_blank"><img src="./stack-overflow.png" alt="stack-overflow"/></a>
+### Looking to `connect` ? Find me here...
+<a style="margin: 50px" href="https://www.linkedin.com/in/uditpandya/" target="_blank"><img src="./linkedin.png" alt="linkedin"/></a>
+<a style="margin: 50px" href="https://leetcode.com/ud17/" target="_blank"><img src="./code.png" alt="leetcode"/></a>
+<a style="margin: 50px" href="https://stackoverflow.com/users/11905562/udit-pandya" target="_blank"><img src="./stack-overflow.png" alt="stack-overflow"/></a>
 
 ### Development in progress... :computer:
