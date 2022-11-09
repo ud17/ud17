@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello, World 👋
+## Ik what are you here for! Go on, have a scroll :wink:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ud17&theme=dark&border_radius=5)](https://git.io/streak-stats)
 
@@ -17,3 +18,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Development in progress... :computer:
