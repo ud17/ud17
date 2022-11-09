@@ -24,6 +24,9 @@ Here are some ideas to get you started:
 <a style="margin: 50px" href="https://stackoverflow.com/users/11905562/udit-pandya" target="_blank"><img src="./stack-overflow.png" alt="stack-overflow"/></a>
 
 ## GitHub Stats
-[![Udit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ud17)]
+![Udit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ud17&theme=dracula)
+
+## Top Languages
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ud17)
 
 ### Development in progress... :computer:
