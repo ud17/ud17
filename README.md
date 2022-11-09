@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 
 ### Looking to connect? Find me here...
-<a href="https://www.linkedin.com/in/uditpandya/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/174/174857.png" alt="linkedin"/></a>
-<a href="https://leetcode.com/ud17/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="leetcode"/></a>
+<a style="margin: 10px" href="https://www.linkedin.com/in/uditpandya/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/174/174857.png" alt="linkedin"/></a>
+<a style="margin: 10px" href="https://leetcode.com/ud17/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/6062/6062646.png" alt="leetcode"/></a>
 
 ### Development in progress... :computer:
