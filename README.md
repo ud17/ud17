@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 
 ### Looking to connect? Find me here...
-<a style="margin: 10px" href="https://www.linkedin.com/in/uditpandya/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/174/174857.png" alt="linkedin"/></a>
+<a style="margin: 10px" href="https://www.linkedin.com/in/uditpandya/" target="_blank"><img src="./linkedin.png" alt="linkedin"/></a>
 <a style="margin: 10px" href="https://leetcode.com/ud17/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/6062/6062646.png" alt="leetcode"/></a>
 
 ### Development in progress... :computer:
