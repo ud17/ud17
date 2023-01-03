@@ -1,9 +1,10 @@
 # System.out.println("Hello, World!"); 👋
 ## Ik what are you here for! Go on, have a scroll :wink:
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ud17&theme=dark&border_radius=5)](https://git.io/streak-stats)
+Check out my portfolio [website](https://uditpandya.dev/)!
 
 <!--
+[![GitHub Streak](https://streak-stats.demolab.com?user=ud17&theme=dark&border_radius=5)](https://git.io/streak-stats)
 **ud17/ud17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
