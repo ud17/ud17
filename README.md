@@ -1,7 +1,7 @@
 # System.out.println("Hello, World!"); 👋
 ## Ik what are you here for! Go on, have a scroll :wink:
 
-## Check out my portfolio [website](https://uditpandya.dev/).
+## Check out my [portfolio](https://uditpandya.dev/).
 <img src="./portfolio_thumbnail.png" alt="portfolio"/></a>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ud17&theme=dark&border_radius=5)](https://git.io/streak-stats)
